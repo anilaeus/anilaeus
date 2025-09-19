@@ -1,6 +1,6 @@
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)  <!-- PHP badge -->
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white)  
-![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D)  
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white)  <!-- Laravel badge -->
+![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D)  <!-- Vue badge -->
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black)  <!-- React badge -->
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white)  <!-- Next.js badge -->
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)  <!-- Docker badge -->
